@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0smHgUoDOhGNMLyScTjWlwgRFek4m7EDCtO5dtvVa7IK/e/7dB529Ro0PhuyUVKxU+MeV0LY6+sTaCMGFAwG0w==",
+  "dgSpecHash": "XvynkoQWXnFA0J6eSV+gOzomZFsw+j2CTPVgDv7of8vbiR0ZIDaKZxUOf1RzHM4MBdxXfPOgG8xWqw8t2YGNjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\across18\\Documents\\factorial\\factorialRecursivo\\factorialRecursivo.csproj",
+  "projectFilePath": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialRecursivo\\factorialRecursivo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\across18\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],

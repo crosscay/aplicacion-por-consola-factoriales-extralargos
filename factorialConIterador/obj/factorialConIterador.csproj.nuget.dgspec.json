@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\across18\\Documents\\factorial\\factorialConIterador\\factorialConIterador.csproj": {}
+    "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialConIterador\\factorialConIterador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\across18\\Documents\\factorial\\factorialConIterador\\factorialConIterador.csproj": {
+    "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialConIterador\\factorialConIterador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\across18\\Documents\\factorial\\factorialConIterador\\factorialConIterador.csproj",
+        "projectUniqueName": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialConIterador\\factorialConIterador.csproj",
         "projectName": "factorialConIterador",
-        "projectPath": "C:\\Users\\across18\\Documents\\factorial\\factorialConIterador\\factorialConIterador.csproj",
+        "projectPath": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialConIterador\\factorialConIterador.csproj",
         "packagesPath": "C:\\Users\\across18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\across18\\Documents\\factorial\\factorialConIterador\\obj\\",
+        "outputPath": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialConIterador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\across18\\AppData\\Roaming\\NuGet\\NuGet.Config",

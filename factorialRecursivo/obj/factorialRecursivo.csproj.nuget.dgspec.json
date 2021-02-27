@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\across18\\Documents\\factorial\\factorialRecursivo\\factorialRecursivo.csproj": {}
+    "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialRecursivo\\factorialRecursivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\across18\\Documents\\factorial\\factorialRecursivo\\factorialRecursivo.csproj": {
+    "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialRecursivo\\factorialRecursivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\across18\\Documents\\factorial\\factorialRecursivo\\factorialRecursivo.csproj",
+        "projectUniqueName": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialRecursivo\\factorialRecursivo.csproj",
         "projectName": "factorialRecursivo",
-        "projectPath": "C:\\Users\\across18\\Documents\\factorial\\factorialRecursivo\\factorialRecursivo.csproj",
+        "projectPath": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialRecursivo\\factorialRecursivo.csproj",
         "packagesPath": "C:\\Users\\across18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\across18\\Documents\\factorial\\factorialRecursivo\\obj\\",
+        "outputPath": "C:\\Users\\across18\\Documents\\aplicacion-por-consola-factoriales-extralargos\\factorialRecursivo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\across18\\AppData\\Roaming\\NuGet\\NuGet.Config",
