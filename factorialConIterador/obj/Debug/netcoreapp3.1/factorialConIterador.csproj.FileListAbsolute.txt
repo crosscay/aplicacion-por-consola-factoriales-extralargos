@@ -1,0 +1,13 @@
+C:\Users\across18\Documents\factorial\factorialConIterador\bin\Debug\netcoreapp3.1\factorialConIterador.exe
+C:\Users\across18\Documents\factorial\factorialConIterador\bin\Debug\netcoreapp3.1\factorialConIterador.deps.json
+C:\Users\across18\Documents\factorial\factorialConIterador\bin\Debug\netcoreapp3.1\factorialConIterador.runtimeconfig.json
+C:\Users\across18\Documents\factorial\factorialConIterador\bin\Debug\netcoreapp3.1\factorialConIterador.runtimeconfig.dev.json
+C:\Users\across18\Documents\factorial\factorialConIterador\bin\Debug\netcoreapp3.1\factorialConIterador.dll
+C:\Users\across18\Documents\factorial\factorialConIterador\bin\Debug\netcoreapp3.1\factorialConIterador.pdb
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.AssemblyInfoInputs.cache
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.AssemblyInfo.cs
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.csproj.CoreCompileInputs.cache
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.dll
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.pdb
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.genruntimeconfig.cache
+C:\Users\across18\Documents\factorial\factorialConIterador\obj\Debug\netcoreapp3.1\factorialConIterador.csprojAssemblyReference.cache

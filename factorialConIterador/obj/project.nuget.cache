@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0qalUXiBIkh7jCEqYGEowByfaxXPFR2JOla3WL0/hlYb31qu1IvqyQqvZhMuoMGNKzriD0wxHMLwy29EjV7FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\across18\\Documents\\factorial\\factorialConIterador\\factorialConIterador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\across18\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

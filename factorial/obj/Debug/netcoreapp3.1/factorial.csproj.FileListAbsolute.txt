@@ -1,0 +1,13 @@
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csprojAssemblyReference.cache
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\across18\Documents\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.exe
+C:\Users\across18\Documents\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.deps.json
+C:\Users\across18\Documents\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.json
+C:\Users\across18\Documents\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.dev.json
+C:\Users\across18\Documents\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.dll
+C:\Users\across18\Documents\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\across18\Documents\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache

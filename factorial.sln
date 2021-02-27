@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorialRecursivo", "factorial\factorialRecursivo.csproj", "{C31DEEB7-B7A2-4B0C-A718-84E99B3989D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorialConIterador", "factorialConIterador\factorialConIterador.csproj", "{6BE1C5D9-DBBF-4DF3-9B52-DDEAE5900FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31DEEB7-B7A2-4B0C-A718-84E99B3989D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31DEEB7-B7A2-4B0C-A718-84E99B3989D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31DEEB7-B7A2-4B0C-A718-84E99B3989D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31DEEB7-B7A2-4B0C-A718-84E99B3989D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE1C5D9-DBBF-4DF3-9B52-DDEAE5900FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE1C5D9-DBBF-4DF3-9B52-DDEAE5900FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE1C5D9-DBBF-4DF3-9B52-DDEAE5900FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE1C5D9-DBBF-4DF3-9B52-DDEAE5900FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6D4EDF2-75E6-417C-A562-981B50046412}
+	EndGlobalSection
+EndGlobal
