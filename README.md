@@ -1,1 +1,1 @@
-# Aplicación por consola factoriales extralargos
+# Aplicación por consola de factoriales extralargos
